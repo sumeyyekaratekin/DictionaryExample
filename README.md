@@ -9,3 +9,5 @@ Reference:
 * https://www.geeksforgeeks.org/c-sharp-dictionary-with-examples/
 
 * https://www.tutorialsteacher.com/csharp/csharp-generics
+
+* https://www.dotnetperls.com/dictionary
