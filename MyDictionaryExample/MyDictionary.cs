@@ -43,15 +43,7 @@ namespace MyDictionaryExample
                 return items.ToArray();  //ToArray() anahtar sözcüğü koleksiyonda bulunan verileri diziye dönüştürür.
             }
         }
-        // Aşağıdaki linklerden yararlandım.
-
-        // https://docs.microsoft.com/tr-tr/dotnet/api/system.collections.generic.list-1.toarray?view=net-5.0
-
-        //https://www.geeksforgeeks.org/c-sharp-generics-introduction/
-
-        //https://www.geeksforgeeks.org/c-sharp-dictionary-with-examples/
-
-        // https://www.tutorialsteacher.com/csharp/csharp-generics
+       
     }
 
 }
