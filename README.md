@@ -1,5 +1,5 @@
-# MyDictionaryExample
-MyDictionary Example
+# DictionaryExample
+Dictionary Example
 
 Reference:
 * https://docs.microsoft.com/tr-tr/dotnet/api/system.collections.generic.list-1.toarray?view=net-5.0
